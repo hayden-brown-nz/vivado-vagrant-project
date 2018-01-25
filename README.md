@@ -4,7 +4,7 @@ A project enabling developers to build a self-contained environment for building
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -14,7 +14,8 @@ Vagrant
 
 ### Installing
 
-These steps are designed for users operating in a Windows environment using Git bash for windows. Your mileage may vary 
+These steps are designed for users operating in an Ubuntu 16.04 environment. Your mileage may 
+vary 
 for other environments.
 
 
@@ -23,10 +24,9 @@ Install Vagrant
 sudo apt-get install vagrant
 ```
 
-Run the initial setup script
-
+Start the vagrant VM
 ```
-./initial_setup.sh
+vagrant up
 ```
 
 
