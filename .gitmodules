@@ -1,0 +1,4 @@
+[submodule "vivado-toolchain"]
+	path = vivado-toolchain
+	url = git@github.com:hayden-brown-nz/vivado-toolchain.git
+	branch = master
