@@ -15,9 +15,13 @@ Vagrant
 ### Installing
 
 These steps are designed for users operating in an Ubuntu 16.04 environment. Your mileage may 
-vary 
-for other environments.
+vary for other environments.
 
+
+Clone this Repo (ans submodules)
+```
+git clone --recursive git@github.com:hayden-brown-nz/vivado-vagrant-project.git
+```
 
 Install Vagrant
 ```
